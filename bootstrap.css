@@ -1,0 +1,15 @@
+.navbar {
+    background-color: #81C251;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+.glyphicon {
+    color: hotpink;
+}
+
+.navbar-default .navbar-brand {
+    color: purple;
+}
